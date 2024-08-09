@@ -10,8 +10,3 @@ teste 9
 teste 10
 teste 15
 teste 16
-dev teste 1
-dev teste 2
-dev teste 3
-dev teste 4
-dev teste 5
